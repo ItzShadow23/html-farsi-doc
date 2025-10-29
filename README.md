@@ -27,8 +27,8 @@
 
 | مرحله | پوشه | وضعیت | توضیح |
 | --- | --- | --- | --- |
-| مقدمه | HTML | [`00-Introduction`](pages/00-Introduction.md) | ⏳ در حال انجام |  |
-| مقدمه | HTML | [`00-Introduction`](pages/00-Introduction.md) | 🔜 به زودی |  |
+| مقدمه | HTML | [`01-Introduction`](pages/01-Introduction.md) | ⏳ در حال انجام |  |
+| ... | HTML | [`02-Editors`]() | 🔜 به زودی |  |
 
 ---
 
